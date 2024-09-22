@@ -1,0 +1,1 @@
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/acrdev/ms-pagamento.svg)](https://hub.docker.com/r/acrdev/ms-pagamento)
